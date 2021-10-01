@@ -1,1 +1,1 @@
-# Google-Colaboratory
+# Google Colaboratory Hints
