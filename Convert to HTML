@@ -1,0 +1,5 @@
+to convert th notebook to HTML format, run the following command in a cell:
+
+
+%%shell
+jupyter nbconvert --to html <notebook path>
