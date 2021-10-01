@@ -1,0 +1,5 @@
+Run the code below in a cell:
+
+!wget -nc https://raw.githubusercontent.com/brpy/colab-pdf/master/colab_pdf.py
+from colab_pdf import colab_pdf
+colab_pdf('investigate_a_dataset_template.ipynb')
